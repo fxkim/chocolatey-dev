@@ -25,7 +25,7 @@ choco install -y -f notepad2
 choco install -y -f pgadmin4
 choco install -y -f php
 choco install -y -f postgresql
-choco install -y -f powerShell
+choco install -y -f powershell
 choco install -y -f sourcetree
 choco install -y -f sumatrapdf.install
 choco install -y -f sysinternals
