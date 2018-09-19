@@ -3,7 +3,7 @@ choco install 7zip.install
 choco install agentransack
 choco install beyondcompare
 choco install chocolateygui
-choco install ColorPic
+choco install colorPic
 choco install composer
 choco install curl
 choco install ditto.install
@@ -16,12 +16,11 @@ choco install nircmd
 choco install nodejs.install
 choco install notepad2
 choco install php
-choco install PowerShell
+choco install powerShell
 choco install sourcetree
 choco install sumatrapdf.install
 choco install sysinternals
 choco install visualstudiocode
 choco install vlc
 choco install wget
-choco install WindowsAzurePowershell
 choco install winscp
