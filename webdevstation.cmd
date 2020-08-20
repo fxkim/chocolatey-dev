@@ -22,7 +22,6 @@ choco install -y -f paint.net
 choco install -y -f qdir
 choco install -y -f spacesniffer
 choco install -y -f speedcrunch
-choco install -y -f stardock-fences
 choco install -y -f sublimetext3
 choco install -y -f sumatrapdf.install
 choco install -y -f sysinternals
