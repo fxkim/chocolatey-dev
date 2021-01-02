@@ -32,3 +32,4 @@ choco install -y -f vlc
 choco install -y -f wget
 choco install -y -f windirstat
 choco install -y -f winscp.install
+choco install -y -f wiztree
