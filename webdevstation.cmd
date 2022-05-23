@@ -21,6 +21,7 @@ choco install -y -f nircmd
 choco install -y -f notepad2
 choco install -y -f opera
 choco install -y -f paint.net
+choco install -y -f powertoys
 choco install -y -f qdir
 choco install -y -f spacesniffer
 choco install -y -f speedcrunch
@@ -30,6 +31,6 @@ choco install -y -f sysinternals
 choco install -y -f visualstudiocode
 choco install -y -f vlc
 choco install -y -f wget
-choco install -y -f windirstat
+# choco install -y -f windirstat
 choco install -y -f winscp.install
 choco install -y -f wiztree
