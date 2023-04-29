@@ -3,7 +3,7 @@ choco install -y -f 7zip.install
 choco install -y -f agentransack
 choco install -y -f aimp
 choco install -y -f azure-cli
-choco install -y -f beyondcompare
+choco install -y -f biwarden
 choco install -y -f chocolateygui
 choco install -y -f curl
 choco install -y -f ditto.install
@@ -32,6 +32,5 @@ choco install -y -f sysinternals
 choco install -y -f visualstudiocode
 choco install -y -f vlc
 choco install -y -f wget
-# choco install -y -f windirstat
 choco install -y -f winscp.install
 choco install -y -f wiztree
