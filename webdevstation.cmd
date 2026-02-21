@@ -25,6 +25,7 @@ choco install -y -f nircmd
 choco install -y -f notepad2
 #choco install -y -f opera
 choco install -y -f paint.net
+choco install -y -f pdf24
 choco install -y -f powertoys
 choco install -y -f python
 choco install -y -f qdir
